@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<sbpay>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.sbpay.sbpay.DemoApplication",
+            "projectName": "sbpay",
+            "args": ""
+        }
+    ]
+}
